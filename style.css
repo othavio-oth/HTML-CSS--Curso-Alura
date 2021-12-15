@@ -8,7 +8,8 @@
 
 }
 .principal{
-	background-color:#443024;
+	background-color:#696969;
+	padding: 30px;
 }
 
 .titulo-centralizado{
@@ -26,11 +27,12 @@ p {
 }
 
 em strong {
-	color: #ce4545;
+	color: red;
 }
 
 .beneficios{
 	background: #FFFFFF;
+	padding: 20px;
 }
 .itens{
 	vertical-align: top;
